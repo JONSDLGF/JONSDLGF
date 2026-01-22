@@ -6,8 +6,8 @@
 ## My favorite languages
 
 1. `assembler` (x86, Intel syntax)  
-2. `python3.11`  
-3. `c`  
+2. `python3.11`
+3. `c`
 4. `javascript`
 
 ## My favorite databases / data formats
@@ -23,13 +23,12 @@
 - **RAM**: 8.00 GB DDR3
 - **Architecture**: x64
 - **GPU**: Intel HD Graphics
-- **OS**: Windows 10 Pro (version 22H2)
+- **OS**: LMDE 7 (gigi)
 - **PC Model**: HP Compaq Elite 8300 SFF
 - **Wi-Fi Adapter**: Realtek 8832AU Wireless LAN WiFi 6 USB NIC
 
-### DirectX Support
-- **GPU supported**: DX11
-- **Drivers supported**: DX12
+### Support grafics
+- **GPU supported**: Opengl 4.0
 
 ## My Opinion (EN)
 
@@ -50,5 +49,6 @@ Si quieres un `print` en Assembly, te lo hago.
 No me gusta HTML ni el desarrollo web por dos razones:  
 1. No sé diseñar bien.  
 2. No sé CSS y necesito ayuda de ChatGPT para usarlo.
+
 
 Me gusta la **portabilidad**: si algo no es portable, lo descarto... o busco la forma de hacerlo ejecutable en cualquier parte.
