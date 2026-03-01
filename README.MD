@@ -18,17 +18,24 @@
 
 ## My setup
 
-- **CPU**: Intel Core i5-3470 3.20GHz
-- **Disk**: HDD 466 GB
-- **RAM**: 8.00 GB DDR3
-- **Architecture**: x64
-- **GPU**: Intel HD Graphics
-- **OS**: LMDE 7 (gigi)
-- **PC Model**: HP Compaq Elite 8300 SFF
-- **Wi-Fi Adapter**: Realtek 8832AU Wireless LAN WiFi 6 USB NIC
+- **CPU:** Intel Core i5-3470 @ 3.20GHz
+- **Disk:** HDD 466 GB
+- **RAM:** 8 GB DDR3 (4 X 2GB)
+- **Architecture:** x64
+- **GPU:** Intel HD Graphics (supports OpenGL 4.0)
+- **OS:** LMDE 7 (Gigi)
+- **PC Model:** HP Compaq Elite 8300 SFF
+- **Wi-Fi Adapter:** Realtek 8832AU Wireless LAN WiFi 6 USB NIC
 
-### Support grafics
-- **GPU supported**: Opengl 4.0
+### BIOS Information
+
+- **Vendor:** Hewlett-Packard  
+- **Version:** K01 v03.08  
+- **Revision:** 3.8  
+- **Release Date:** 04/10/2019  
+- **ROM Size:** 16 MB  
+- **Supported Features:** PCI, PNP, ACPI, USB legacy, CD boot, Selectable boot, EDD, BIOS boot specification, UEFI  
+- **Upgradeable:** Yes (official HP firmware only)  
 
 ## My Opinion (EN)
 
@@ -52,3 +59,4 @@ No me gusta HTML ni el desarrollo web por dos razones:
 
 
 Me gusta la **portabilidad**: si algo no es portable, lo descarto... o busco la forma de hacerlo ejecutable en cualquier parte.
+
