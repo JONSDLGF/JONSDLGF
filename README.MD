@@ -20,7 +20,7 @@
 
 - **CPU:** Intel Core i5-3470 @ 3.20GHz
 - **Disk:** HDD 466 GB
-- **RAM:** 8 GB DDR3 (4 X 2GB)
+- **RAM:** 4 GB DDR3 (2 X 2GB)
 - **Architecture:** x64
 - **GPU:** Intel HD Graphics (supports OpenGL 4.0)
 - **OS:** LMDE 7 (Gigi)
