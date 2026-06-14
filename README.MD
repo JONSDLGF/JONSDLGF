@@ -41,3 +41,4 @@
 - LMDE 7 (gigi) x86_64 base
 - openbox
 - LXTerminal
+![Escritorio Openbox](openbox.png)
