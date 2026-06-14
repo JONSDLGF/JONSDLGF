@@ -37,26 +37,7 @@
 - **Supported Features:** PCI, PNP, ACPI, USB legacy, CD boot, Selectable boot, EDD, BIOS boot specification, UEFI  
 - **Upgradeable:** Yes (official HP firmware only)  
 
-## My Opinion (EN)
-
-Let’s start with this: I’m Jon, a programmer who enjoys abstracting code and building cool stuff.  
-If you want a `print` in Assembly, I’ll write it.
-
-I don’t like HTML or web development for two reasons:  
-1. I’m not good at design.  
-2. I don’t know CSS, and I usually need help from ChatGPT.
-
-I value **portability** — if it doesn’t run everywhere, I try to either make it work or throw it away.
-
-## My Opinion (ES)
-
-Empecemos por lo primero: soy Jon, un programador al que le gusta abstraer código y hacer cosas interesantes.  
-Si quieres un `print` en Assembly, te lo hago.
-
-No me gusta HTML ni el desarrollo web por dos razones:  
-1. No sé diseñar bien.  
-2. No sé CSS y necesito ayuda de ChatGPT para usarlo.
-
-
-Me gusta la **portabilidad**: si algo no es portable, lo descarto... o busco la forma de hacerlo ejecutable en cualquier parte.
-
+## my sistem
+- LMDE 7 (gigi) x86_64 base
+- openbox
+- LXTerminal
