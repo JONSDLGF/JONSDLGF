@@ -3,18 +3,9 @@
 - I'm **Jon Mikel**.
 - [My website](https://jonsdlgf.github.io)
 
-## My favorite languages
-
-1. `assembler` (x86, Intel syntax)  
-2. `python3.11`
-3. `c`
-4. `javascript`
-
-## My favorite databases / data formats
-
-1. `JSON`  
-2. `binary` (bin)  
-3. `SQL`
+## Use
+- **GIT:** basic `git push`
+- **gnu:** nano cp mv rm cd...
 
 ## My setup
 
@@ -41,6 +32,5 @@
 - LMDE 7 (gigi) x86_64 base
 - openbox
 - LXTerminal
+- Chromium
 ![Escritorio Openbox](openbox.png)
-
-GIT!!!
