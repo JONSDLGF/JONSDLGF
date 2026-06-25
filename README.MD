@@ -42,3 +42,5 @@
 - openbox
 - LXTerminal
 ![Escritorio Openbox](openbox.png)
+
+GIT!!!
