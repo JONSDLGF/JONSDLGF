@@ -1,6 +1,6 @@
 # HI :)
 
-- I'm **Jon Mikel**.
+- I'm **Jon**.
 - [My website](https://jonsdlgf.github.io)
 
 ## Use
